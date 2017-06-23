@@ -33,3 +33,11 @@ In browser
 ```
 http://192.168.200.186:8880/
 ```
+
+
+## Post data from NiFi
+1. using processor `PostHTTP` or your own code
+2. set the URL `http://192.168.200.186:8880`
+3. start to send data
+
+You should be able to see the data in the Nodejs server
