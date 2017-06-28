@@ -40,3 +40,9 @@ nslookup dcweb-internal-server-svc.data-cleaning
 curl dcweb-internal-server-svc.data-cleaning:8080 
 ```
 
+The full service address:
+
+```
+dcweb-internal-server-svc.data-cleaning.svc.cluster.local
+```
+
